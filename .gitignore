@@ -1,0 +1,6 @@
+video_folder/
+venv/
+model/
+runs/
+*.mp4
+practice_work.py
